@@ -15,5 +15,3 @@ def four_digits(A, B, C, D):
         return "NOT POSSIBLE"
 
     return "%s%s:%s%s" % tuple(h)
-
-    return "NOT POSSIBLE"
