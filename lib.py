@@ -1,6 +1,7 @@
 def four_digits(A, B, C, D):
 
     l = [A, B, C, D]
+    s = [(2,), (3, 9), (6,), (9,)]
     h = []
 
     try:
