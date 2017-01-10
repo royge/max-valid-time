@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/r0y3/max-valid-time.svg?branch=master)](https://travis-ci.org/r0y3/max-valid-time)
+
 Problem
 =======
 
