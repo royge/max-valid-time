@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/r0y3/max-valid-time.svg?branch=master)](https://travis-ci.org/r0y3/max-valid-time)
+[![Build Status](https://travis-ci.org/royge/max-valid-time.svg?branch=master)](https://travis-ci.org/royge/max-valid-time)
 
 Problem
 =======
