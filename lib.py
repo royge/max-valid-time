@@ -11,10 +11,10 @@ def max_valid_time(A, B, C, D):
 
             if time > last_time:
                 return time
-
-            return last_time
         except ValueError:
-            return last_time
+            pass
+
+        return last_time
 
     biggest_time = None
     combinations = list(permutations([A, B, C, D]))
