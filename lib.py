@@ -13,7 +13,7 @@ def max_valid_time(A, B, C, D):
                 return time
 
             return last_time
-        except ValueError, ex:
+        except ValueError:
             return last_time
 
     biggest_time = None
