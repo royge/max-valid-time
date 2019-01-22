@@ -19,6 +19,7 @@ Test cases
 2. ```max_valid_time(1, 8, 3, 2)``` should return ```"23:18"```.
 3. ```max_valid_time(9, 9, 4, 5)``` should return ```"NOT POSSIBLE"```.
 4. ```max_valid_time(6, 9, 8, 5)``` should return ```"NOT POSSIBLE"```.
+5. ```max_valid_time(1, 2, 6, 9)``` should return ```"19:26"```.
 
 Run tests
 =========
