@@ -23,7 +23,7 @@ class TestFourDigit(unittest.TestCase):
     def test_0909(self):
         self.assertEqual("09:09", max_valid_time(0, 9, 9, 0))
 
-    def test_1269(self):
+    def test_1926(self):
         self.assertEqual("19:26", max_valid_time(1, 2, 6, 9))
 
 if __name__ == '__main__':
